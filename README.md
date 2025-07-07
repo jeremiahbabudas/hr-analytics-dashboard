@@ -14,7 +14,7 @@ To analyze and visualize HR data to:
    - Salary distribution  
    - Departmental and project management  
 
-![Objective](Screenshots/Objective.png)
+<img src="Screenshots/Objective.png" alt="Objective" width="700"/>
 
 
 ## 🛠️ Tools Used
@@ -62,6 +62,15 @@ Visualizes how capital is distributed across department goals or departments (in
 - Improved proficiency with Power BI tools (slicers, cards, visuals, model relationships)  
 - Built a visually appealing and interactive dashboard  
 - Strengthened skills in data modeling, transformation, and visualization
+
+
+## 📷 Screenshots
+![Screenshot 1](Screenshots/CTE.png)
+
+![Screenshot 2](Screenshots/Dashboard%201.png)
+
+![Screenshot 3](Screenshots/Dashboard%202.png)
+
 
 ## 🔍 Data Preparation
 
