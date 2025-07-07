@@ -67,9 +67,9 @@ Visualizes how capital is distributed across department goals or departments (in
 ## 📷 Screenshots
 ![Screenshot 1](Screenshots/CTE.png)
 
-![Screenshot 2](Screenshots/Dashboard%201.png)
+![Screenshot 2](Screenshots/Screenshot%201.png)
 
-![Screenshot 3](Screenshots/Dashboard%202.png)
+![Screenshot 3](Screenshots/Screenshot%202.png)
 
 
 ## 🔍 Data Preparation
