@@ -14,6 +14,7 @@ To analyze and visualize HR data to:
    - Salary distribution  
    - Departmental and project management  
 
+![Objective(Objective.png)
 
 ## 🛠️ Tools Used
 
