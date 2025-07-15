@@ -1,4 +1,4 @@
-# HR Analytics Dashboard – SQL & Power BI
+# HR Analytics Project (SQL + Power BI)
 
 This project focuses on building a comprehensive **HR Analytics Dashboard** by integrating **multiple Excel files into SQL Server**, performing data transformation using **SQL queries and Power Query**, and developing a dynamic **Power BI dashboard** to support organizational decision-making.
 
